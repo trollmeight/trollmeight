@@ -24,10 +24,10 @@
 ### Latest projects
 
 <!--START_SECTION:projects-->
-https://github.com/trollmeight/website
-https://github.com/is-not-cool/registration
-https://github.com/stole-my-id/registration
-https://github.com/trollmeight/vinster
+- https://github.com/trollmeight/website
+- https://github.com/is-not-cool/registration
+- https://github.com/stole-my-id/registration
+- https://github.com/trollmeight/vinster
 <!--END_SECTION:projects-->
 
 ---
