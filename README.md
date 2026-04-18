@@ -25,11 +25,10 @@
 
 <!--START_SECTION:projects-->
 https://github.com/trollmeight/website
+https://github.com/is-not-cool/registration
+https://github.com/stole-my-id/registration
+https://github.com/trollmeight/vinster
 <!--END_SECTION:projects-->
 
 ---
 
-### My followers
-
-<!--ACTION_START_FLAG:github-followers-->
-<!--ACTION_END_FLAG:github-followers-->
