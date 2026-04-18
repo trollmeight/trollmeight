@@ -18,6 +18,8 @@
 - Typescript, Vue, HTML, CSS, Javascript, Markdown, Lua, and Python
 - Minsk, Belarus
 - Founder of is-not.cool and stole-my.id
+- Tech enthusiast
+- CDT Timezone
 
 ---
 
