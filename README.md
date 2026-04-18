@@ -16,11 +16,9 @@
 </p>
 
 - Typescript, Vue, HTML, CSS, Javascript, Markdown, Lua, and Python
-- Minsk, Belarus
+- Dallas, Texas
 - Founder of is-not.cool and stole-my.id
-- Tech enthusiast
-- CDT Timezone
-
+- Homelab lover (i use jellyfin btw)
 ---
 
 ### Latest projects
