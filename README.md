@@ -24,7 +24,7 @@
 ### Latest projects
 
 <!--START_SECTION:projects-->
-- https://github.com/trollmeight/website
+- https://github.com/trollmeight/webpage
 - https://github.com/is-not-cool/registration
 - https://github.com/stole-my-id/registration
 - https://github.com/trollmeight/vinster
