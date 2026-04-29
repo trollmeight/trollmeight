@@ -18,7 +18,18 @@
 - Typescript, Vue, HTML, CSS, Javascript, Markdown, Lua, and Python
 - Dallas, Texas
 - Founder of is-not.cool and stole-my.id
-- Homelab lover (i use jellyfin btw)
+- Homelab lover
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
+- I use arch btw
 ---
 
 ### Latest projects
